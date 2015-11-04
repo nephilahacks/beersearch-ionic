@@ -1,4 +1,4 @@
-# Beer Search App made with Ionic framework
+# Beer Search App made with Ionic
 
 Ionic implementation of https://github.com/nephilahacks/beersearch
 
